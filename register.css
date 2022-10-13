@@ -1,0 +1,42 @@
+.registerbtn{
+	background-color: #4CAF50;
+	color: rgb(134, 128, 128);
+	padding: 16px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;    
+}
+.registerbtn:hover{
+	opacity: 1;
+}
+.text-box{
+	margin: 30px;
+	padding: 5px 2px; 
+}
+label{
+	text-decoration: bold;
+	width: 120px;
+	display: inline-block;
+}
+a {
+	color: rgb(174, 226, 196);
+}
+.signin{
+	background-color: #d86868;
+	text-align: center;
+	padding: 2px;
+}
+.register-box h1{
+	border-bottom: 2px solid #4CAF50;
+	text-align: center;
+	padding: 5px 0;
+}
+form{
+	width: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
